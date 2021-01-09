@@ -1,0 +1,9 @@
+D:\Codes\howto_warp_images\howto_warp_images\bin\Debug\howto_warp_images.exe
+D:\Codes\howto_warp_images\howto_warp_images\bin\Debug\howto_warp_images.pdb
+D:\Codes\howto_warp_images\howto_warp_images\obj\Debug\howto_warp_images.csprojAssemblyReference.cache
+D:\Codes\howto_warp_images\howto_warp_images\obj\Debug\howto_warp_images.Form1.resources
+D:\Codes\howto_warp_images\howto_warp_images\obj\Debug\howto_warp_images.Properties.Resources.resources
+D:\Codes\howto_warp_images\howto_warp_images\obj\Debug\howto_warp_images.csproj.GenerateResource.cache
+D:\Codes\howto_warp_images\howto_warp_images\obj\Debug\howto_warp_images.csproj.CoreCompileInputs.cache
+D:\Codes\howto_warp_images\howto_warp_images\obj\Debug\howto_warp_images.exe
+D:\Codes\howto_warp_images\howto_warp_images\obj\Debug\howto_warp_images.pdb
